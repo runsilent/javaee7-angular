@@ -34,7 +34,7 @@ few instructions here: [Codenvy setup to demo applications using Docker: Java EE
 
   * Start Wildfly and go to http://localhost:8080/javaee7-angular/ (http://localhost:8080/javaee7-angular/)
   
-### Deploy in Embedded Wilffy ###
+### Deploy in Embedded Wildfy ###
 
   * Just run `mvn wildfly:run`
   
